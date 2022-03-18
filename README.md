@@ -1,5 +1,5 @@
 # wiki-api
-## 📰 API for managing Wiki article(s).
+### 📰 API for managing Wiki article(s).
 
 ### My very first API, built using REST principles. 
 
