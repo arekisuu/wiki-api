@@ -1,7 +1,7 @@
 <div align="center">
 
 # wiki-api
-### 📰 API for managing Wiki article(s).
+### 📰 API for managing Wiki articles.
 
 ### My very first API, built using REST principles. 
 
